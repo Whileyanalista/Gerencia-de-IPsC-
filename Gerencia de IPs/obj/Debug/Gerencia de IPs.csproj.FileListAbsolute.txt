@@ -1,0 +1,12 @@
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\bin\Debug\Gerencia de IPs.exe.config
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\bin\Debug\Gerencia de IPs.exe
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\bin\Debug\Gerencia de IPs.pdb
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia de IPs.csprojAssemblyReference.cache
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia_de_IPs.FormTelaPrincipal.resources
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia_de_IPs.Properties.Resources.resources
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia de IPs.csproj.GenerateResource.cache
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia de IPs.csproj.CoreCompileInputs.cache
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia de IPs.exe
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia de IPs.pdb
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\bin\Debug\System.Data.SQLite.dll
+C:\Users\Familia Reis\source\repos\Gerencia de IPs\Gerencia de IPs\obj\Debug\Gerencia de IPs.csproj.CopyComplete
